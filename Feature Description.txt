@@ -1,0 +1,22 @@
+Features, Description
+CLIENTNUM, Unique identifier for each client (Integer)
+Attrition_Flag, Indicator of whether the customer has left the bank or stayed 
+Customer_Age, The age of the customer 
+Gender, Customer Gender
+Dependent_count, Number of dependents the customer has.
+Education_Level, Client's education level.
+Marital_Status, Marital status of the customer. 
+Income_Category, Income category of customer.
+Card_Category, Type of card of the customer.
+Months_on_book, The time the customer has been on the books.
+Total_Relationship_Count, Total number of relationships the customer has with the credit card provider.
+Months_Inactive_12_mon, Number of months the customer has been inactive in the last twelve months.
+Contacts_Count_12_mon, Number of contacts the customer has had in the last twelve months.
+Credit_Limit, Customer's credit limit.
+Total_Revolving_Bal, Customer's total revolving balance. 
+Avg_Open_To_Buy, Customer's average open-to-buy ratio.
+Total_Amt_Chng_Q4_Q1, Total amount changed from quarter 4 to quarter 1.
+Total_Trans_Amt, Total amount of the transaction. 
+Total_Trans_Ct, Total transaction count. 
+Total_Ct_Chng_Q4_Q1, Total count changed from quarter 4 to quarter 1.
+Avg_Utilization_Ratio, Average client utilization ratio.
