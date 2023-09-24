@@ -4,13 +4,13 @@ Welcome to the Customer Churn Rate Analysis Project repository! This project, wh
 ## Project Overview
 In this data science project, we aim to understand and address the issue of customer churn, which can have a significant impact on a bank's bottom line. By predicting which customers are likely to leave, the bank can take proactive measures to retain them. Here's a brief overview of the project:
 
-Data Exploration: We start by exploring the dataset, gaining insights into customer attributes, and understanding the distribution of churn and non-churn cases.
+* Data Exploration: We start by exploring the dataset, gaining insights into customer attributes, and understanding the distribution of churn and non-churn cases.
 
-Model Building: We build multiple classification models, including logistic regression, random forest, and gradient boosting, to predict customer churn. Each model is optimized using RandomizedSearchCV for hyperparameter tuning.
+* Model Building: We build multiple classification models, including logistic regression, random forest, and gradient boosting, to predict customer churn. Each model is optimized using RandomizedSearchCV for hyperparameter tuning.
 
-Model Evaluation: We assess the performance of these models using a validation test to ensure their effectiveness on unseen data.
+* Model Evaluation: We assess the performance of these models using a validation test to ensure their effectiveness on unseen data.
 
-Comparison: We conduct an evaluation test on a separate dataset to compare the model performances. Notably, the gradient boosting model emerges as the top performer, exhibiting superior precision and F1-score in both tests.
+* Comparison: We conduct an evaluation test on a separate dataset to compare the model performances. Notably, the gradient boosting model emerges as the top performer, exhibiting superior precision and F1-score in both tests.
 
 ## Repository Contents
 Code: This repository contains Jupyter notebooks and Python scripts used for data preprocessing, model training, and evaluation.
