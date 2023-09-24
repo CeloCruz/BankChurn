@@ -1,5 +1,5 @@
-# Customer Churn Rate Analysis Project
-Welcome to the Customer Churn Rate Analysis Project repository! This project, which achieved the second-place ranking in a hackathon competition in Barcelona, focuses on analyzing customer churn within a bank and building predictive models to identify potential churners. The project encompasses the construction and evaluation of various classification models, including logistic regression, random forest, and gradient boosting.
+# Bank Churn Prediction Project
+Welcome to the Bank Churn Prediction Project repository! This project, which achieved the second-place ranking in a hackathon competition in Barcelona, focuses on analyzing customer churn within a bank and building predictive models to identify potential churners. The project encompasses the construction and evaluation of various classification models, including logistic regression, random forest, and gradient boosting.
 
 ## Project Overview
 In this data science project, we aim to understand and address the issue of customer churn, which can have a significant impact on a bank's bottom line. By predicting which customers are likely to leave, the bank can take proactive measures to retain them. Here's a brief overview of the project:
