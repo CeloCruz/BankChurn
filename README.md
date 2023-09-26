@@ -1,7 +1,7 @@
 # Bank Churn Prediction Project
 Welcome to the Bank Churn Prediction Project repository! This project, which achieved the second-place ranking in a hackathon competition in Barcelona, focuses on analyzing customer churn within a bank and building predictive models to identify potential churners. The project encompasses the construction and evaluation of various classification models, including logistic regression, random forest, and gradient boosting.
 
-[Ver el notebook en formato HTML](Bank churn prediction.html)
+Notebook: https://github.com/CeloCruz/BankChurn/blob/main/Bank%20churn%20prediction.ipynb
 
 ## Project Overview
 In this data science project, we aim to understand and address the issue of customer churn, which can have a significant impact on a bank's bottom line. By predicting which customers are likely to leave, the bank can take proactive measures to retain them. Here's a brief overview of the project:
