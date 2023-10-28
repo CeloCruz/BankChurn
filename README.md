@@ -20,6 +20,7 @@ Focused on customer churn within a bank, this project's aim was to build predict
   * Business Understanding
   * Critical Thinking & Problem Solving
   * Data Transformation for relevant insights
+  * Statistical Analysis.
   * Data Analysis
   * Data Mining
   * Data Preprocessing
